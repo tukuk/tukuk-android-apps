@@ -1,0 +1,11 @@
+org.tukuk.app-skgrain-0 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/pngs/skgrain/debug
+org.tukuk.app-skgrain-1 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/resValues/skgrain/debug
+org.tukuk.app-updated_navigation_xml-2 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/updated_navigation_xml/skgrainDebug
+org.tukuk.app-packageSkgrainDebugResources-3 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/skgrainDebug/packageSkgrainDebugResources/merged.dir
+org.tukuk.app-packageSkgrainDebugResources-4 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/skgrainDebug/packageSkgrainDebugResources/stripped.dir
+org.tukuk.app-skgrainDebug-5 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/merged_res/skgrainDebug/mergeSkgrainDebugResources
+org.tukuk.app-debug-6 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/debug/res
+org.tukuk.app-main-7 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/res
+org.tukuk.app-skgrain-8 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/skgrain/res
+org.tukuk.app-skgrainDebug-9 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/skgrainDebug/res
+gradleHome-0 /home/fevian/.gradle

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tukuk.app-chatDebug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/resValues/chat/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endColumns": "71",
+                        "endOffsets": "226"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

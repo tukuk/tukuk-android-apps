@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../outputs/apk/snake/debug/output-metadata.json

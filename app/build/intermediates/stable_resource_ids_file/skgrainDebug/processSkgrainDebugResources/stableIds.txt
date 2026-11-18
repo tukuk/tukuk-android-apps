@@ -1,0 +1,2 @@
+org.tukuk.skgrain:string/app_name = 0x7f020000
+org.tukuk.skgrain:mipmap/ic_launcher = 0x7f010000

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Generic Tukuk-OS WebView wrapper manifest for all product flavours.
+
+  Per-flavour overrides:
+    • ${deeplinkPath}  — injected via manifestPlaceholders from build.gradle
+    • ${applicationId} — set per flavour in build.gradle (org.tukuk.<slug>)
+
+  Camera/microphone permissions are NOT here; they live in
+  src/chat/AndroidManifest.xml and merge in only for the `chat` flavour.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.tukuk.snake"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="36" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Material.NoActionBar"
+        android:usesCleartextTraffic="false" >
+        <activity
+            android:name="org.tukuk.app.MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|screenLayout|uiMode|density"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- Deep-link: open this activity when the user taps a tukuk.org URL. -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="tukuk.org"
+                    android:pathPrefix="/apps/snake"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

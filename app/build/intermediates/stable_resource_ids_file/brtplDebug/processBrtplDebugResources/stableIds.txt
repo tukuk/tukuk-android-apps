@@ -1,0 +1,2 @@
+org.tukuk.brtpl:string/app_name = 0x7f020000
+org.tukuk.brtpl:mipmap/ic_launcher = 0x7f010000

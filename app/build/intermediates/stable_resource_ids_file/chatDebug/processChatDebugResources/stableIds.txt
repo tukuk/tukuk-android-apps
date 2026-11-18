@@ -1,0 +1,2 @@
+org.tukuk.chat:string/app_name = 0x7f020000
+org.tukuk.chat:mipmap/ic_launcher = 0x7f010000

@@ -1,0 +1,11 @@
+org.tukuk.app-brtpl-0 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/pngs/brtpl/debug
+org.tukuk.app-brtpl-1 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/resValues/brtpl/debug
+org.tukuk.app-updated_navigation_xml-2 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/updated_navigation_xml/brtplDebug
+org.tukuk.app-packageBrtplDebugResources-3 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/brtplDebug/packageBrtplDebugResources/merged.dir
+org.tukuk.app-packageBrtplDebugResources-4 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/brtplDebug/packageBrtplDebugResources/stripped.dir
+org.tukuk.app-brtplDebug-5 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/merged_res/brtplDebug/mergeBrtplDebugResources
+org.tukuk.app-brtpl-6 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/brtpl/res
+org.tukuk.app-brtplDebug-7 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/brtplDebug/res
+org.tukuk.app-debug-8 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/debug/res
+org.tukuk.app-main-9 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/res
+gradleHome-0 /home/fevian/.gradle

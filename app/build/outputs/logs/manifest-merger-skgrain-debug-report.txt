@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+data
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:44:9-47:52
+	android:host
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:46:13-37
+	android:scheme
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:45:13-35
+	android:pathPrefix
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:47:13-49
+manifest
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:12:1-52:12
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:12:1-52:12
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:12:1-52:12
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:12:1-52:12
+	package
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:12:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:14:3-65
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:14:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:15:3-77
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:15:20-74
+uses-permission#android.permission.VIBRATE
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:16:3-64
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:16:20-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:17:3-66
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:17:20-63
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:18:3-75
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:18:20-72
+application
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:20:3-50:17
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:20:3-50:17
+	android:extractNativeLibs
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:27:7-33
+	android:label
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:21:7-39
+	android:hardwareAccelerated
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:24:7-41
+	android:icon
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:22:7-41
+	android:allowBackup
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:26:7-33
+	android:theme
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:23:7-64
+	android:usesCleartextTraffic
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:25:7-43
+activity#org.tukuk.app.MainActivity
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:29:5-49:16
+	android:launchMode
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:32:9-40
+	android:windowSoftInputMode
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:34:9-51
+	android:exported
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:31:9-32
+	android:configChanges
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:33:9-98
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:30:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:35:7-38:23
+action#android.intent.action.MAIN
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:36:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:37:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:tukuk.org+data:pathPrefix:/satu-kata/rain/game/+data:scheme:https
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:40:7-48:23
+action#android.intent.action.VIEW
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:41:17-58
+category#android.intent.category.DEFAULT
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:42:9-68
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:42:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:43:9-70
+	android:name
+		ADDED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml:43:19-67
+uses-sdk
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/AndroidManifest.xml

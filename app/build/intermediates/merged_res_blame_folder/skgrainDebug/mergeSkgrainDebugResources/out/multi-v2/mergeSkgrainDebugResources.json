@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tukuk.app-skgrainDebug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/resValues/skgrain/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "162",
+                        "endColumns": "69",
+                        "endOffsets": "227"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "69",
+                        "endOffsets": "120"
+                    }
+                }
+            ]
+        }
+    ]
+}

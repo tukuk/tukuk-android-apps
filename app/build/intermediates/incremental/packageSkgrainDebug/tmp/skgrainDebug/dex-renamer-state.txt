@@ -1,0 +1,13 @@
+#Sat Oct 17 03:26:43 GMT+08:00 2026
+base.0=/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/dex/skgrainDebug/mergeExtDexSkgrainDebug/classes.dex
+base.1=/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/dex/skgrainDebug/mergeProjectDexSkgrainDebug/0/classes.dex
+base.2=/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/dex/skgrainDebug/mergeProjectDexSkgrainDebug/12/classes.dex
+base.3=/home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/global_synthetics_dex/skgrainDebug/generateSkgrainDebugGlobalSynthetics/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

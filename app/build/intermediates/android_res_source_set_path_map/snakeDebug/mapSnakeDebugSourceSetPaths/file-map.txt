@@ -1,0 +1,11 @@
+org.tukuk.app-snake-0 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/pngs/snake/debug
+org.tukuk.app-snake-1 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/res/resValues/snake/debug
+org.tukuk.app-updated_navigation_xml-2 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/generated/updated_navigation_xml/snakeDebug
+org.tukuk.app-packageSnakeDebugResources-3 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/snakeDebug/packageSnakeDebugResources/merged.dir
+org.tukuk.app-packageSnakeDebugResources-4 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/incremental/snakeDebug/packageSnakeDebugResources/stripped.dir
+org.tukuk.app-snakeDebug-5 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/build/intermediates/merged_res/snakeDebug/mergeSnakeDebugResources
+org.tukuk.app-debug-6 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/debug/res
+org.tukuk.app-main-7 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/main/res
+org.tukuk.app-snake-8 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/snake/res
+org.tukuk.app-snakeDebug-9 /home/fevian/AndroidStudioProjects/tukuk-os-v2/apk/app/src/snakeDebug/res
+gradleHome-0 /home/fevian/.gradle
